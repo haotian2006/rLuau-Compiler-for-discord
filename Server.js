@@ -1,4 +1,4 @@
-//Taken from https://github.com/RoSocket
+//Taken and modified from https://github.com/RoSocket
 
 const express = require('express');
 const WebSocket = require('ws');
